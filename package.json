@@ -1,0 +1,13 @@
+{
+  "name": "tcc-rasp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+ 
+  },  
+  "dependencies": {
+    "@wiotp/sdk": "^0.7.8"
+  }
+}
